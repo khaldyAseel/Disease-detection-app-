@@ -93,6 +93,6 @@ By aligning our project with these comprehensive goals, we aspire to revolutioni
 <br>
 <img src="/static/Screenshots/Picture2.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/Picture3.png" alt="Alt Text" width="600" height="300">
-<br><img src="/static/Screenshots/Picture4.png" alt="Alt Text" width="600" height="300">
+<br><img src="/static/Screenshots/Picture4.jpg" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/image.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/Picture1.png" alt="Alt Text" width="600" height="300">
