@@ -1,6 +1,3 @@
-<img src="/static/icons/image.png" alt="Alt Text" width="350" height="200">
-<br>
-
 ## Project Introduction
 
 Welcome to ProHealth360! Our innovative platform is dedicated to transforming patient care through cutting-edge technology. We are on a mission to redefine healthcare by enabling the precise and swift identification of seven major diseases: COVID-19, Breast Cancer, Alzheimer's, Brain Tumor, Diabetes, Kidney, and Heart diseases.
