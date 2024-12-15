@@ -90,10 +90,9 @@ By aligning our project with these comprehensive goals, we aspire to revolutioni
 ## Some of pages of our website
 
 <img src="/static/Screenshots/23.png" alt="Alt Text" width="700" height="300">
-<img src="/static/Screenshots/6.png" alt="Alt Text" width="600" height="350">
 <br>
-<img src="/static/Screenshots/picture2.png" alt="Alt Text" width="600" height="300">
+<img src="/static/Screenshots/Picture2.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/Picture3.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/Picture4.png" alt="Alt Text" width="600" height="300">
-<br><img src="/static/Screenshots/Picture1.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/image.png" alt="Alt Text" width="600" height="300">
+<br><img src="/static/Screenshots/Picture1.png" alt="Alt Text" width="600" height="300">
