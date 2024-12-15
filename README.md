@@ -7,16 +7,6 @@ Welcome to ProHealth360! Our innovative platform is dedicated to transforming pa
 
 At ProHealth360, we harness the formidable capabilities of machine learning to deliver fast and trustworthy diagnoses. This approach not only empowers medical professionals with accurate information but also significantly improves patient monitoring and treatment strategies. Join us in shaping the future of healthcare with ProHealth360!
 <br>
-<img src="rating.png" alt="Alt Text" width="40" height="30"> So, at the beginning, we would like to explain why we chose this name "ProHealth360" for our site.
-"ProHealth360" combines the word "Pro," which is short for "professional" or "proactive," with "Health" and "360" to suggest a comprehensive and professional approach to healthcare.
-
-- "Pro": Implies professionalism, expertise, and a forward-thinking approach to healthcare. It suggests that our platform offers high-quality and advanced healthcare solutions.
-
-- "Health": Clearly indicates that the focus of the platform is on health and healthcare-related services.
-
-- "360": is often used in branding to convey a comprehensive or all-encompassing approach, our web application could suggest that our platform offers a full and holistic range of disease prediction and diagnosis services. It implies that we cover all aspects of healthcare and provide a well-rounded solution. Additionally, "360" can also evoke a sense of completeness, accuracy, and thoroughness in the predictions and diagnoses our platform offers. Ultimately, the choice of "360" in the name adds a dynamic and comprehensive feel to our healthcare application. so by that, we chose this name.
-  So, "ProHealth360" could signify a platform that offers expert, proactive, and comprehensive healthcare solutions.
-  <br>
 
 ## Problem Definition
 
@@ -112,13 +102,4 @@ By aligning our project with these comprehensive goals, we aspire to revolutioni
 <br><img src="/static/Screenshots/30.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/2.png" alt="Alt Text" width="600" height="300">
 <img src="/static/Screenshots/8.png" alt="Alt Text" width="600" height="350">
-<img src="/static/Screenshots/9.png" alt="Alt Text" width="600" height="250">
-<img src="/static/Screenshots/10.png" alt="Alt Text" width="600" height="350"><img src="/static/Screenshots/11.png" alt="Alt Text" width="600" height="350"><img src="/static/Screenshots/12.png" alt="Alt Text" width="600" height="350"><img src="/static/Screenshots/13.png" alt="Alt Text" width="600" height="350"><img src="/static/Screenshots/14.png" alt="Alt Text" width="600" height="250"><img src="/static/Screenshots/15.png" alt="Alt Text" width="600" height="350"><img src="/static/Screenshots/16.png" alt="Alt Text" width="600" height="350"><img src="/static/Screenshots/17.png" alt="Alt Text" width="600" height="300">
-<img src="/static/Screenshots/18.png" alt="Alt Text" width="600" height="300">
-<img src="/static/Screenshots/19.png" alt="Alt Text" width="600" height="350">
-<img src="/static/Screenshots/20.png" alt="Alt Text" width="600" height="350">
-<img src="/static/Screenshots/21.png" alt="Alt Text" width="600" height="350">
-<img src="/static/Screenshots/22.png" alt="Alt Text" width="600" height="300">
-<img src="/static/Screenshots/24.png" alt="Alt Text" width="600" height="300">
-<img src="/static/Screenshots/25.png" alt="Alt Text" width="600" height="300">
-<img src="/static/Screenshots/26.png" alt="Alt Text" width="600" height="300">
+<img src="/static/Screenshots/9.png" alt="Alt Text" width="600" height="250"> 
