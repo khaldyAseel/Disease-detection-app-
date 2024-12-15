@@ -82,16 +82,16 @@ We welcome contributions to improve ProHealth360. To contribute:
 3. Commit changes and push to your branch.
 4. Open a pull request for review.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-## Some of pages of our website
+## Some pages of our Web App
 
-<img src="/static/Screenshots/23.png" alt="Alt Text" width="700" height="300">
-<br>
 <img src="/static/Screenshots/Picture2.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/Picture3.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/Picture4.jpg" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/image.png" alt="Alt Text" width="600" height="300">
 <br><img src="/static/Screenshots/Picture1.png" alt="Alt Text" width="600" height="300">
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
