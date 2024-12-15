@@ -39,7 +39,7 @@ The lack of timely and accurate disease detection, especially in remote areas, c
 2. Deliver a comprehensive, end-to-end diagnostic solution.
 3. Improve healthcare accessibility for underserved populations.
 4. Foster research and innovation in disease detection.
-5. Provide continuous updates and improvements based on user feedback.
+
 
 ## How to Use
 1. **Access the Platform:** Visit the web application.
